@@ -1,3 +1,5 @@
-hi there, im Nikita
-this is for the first commit
-this is for the second commit
+this is the first one
+
+and this is second one
+
+and finally, the third one
